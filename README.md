@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
