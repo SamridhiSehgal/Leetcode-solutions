@@ -1,8 +1,16 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        if(n<=0)return false;
-       double val=log(n)/log(4);
-       return fabs(val-round(val))<1e-10; 
+    int ans=1;
+    for(int i=0;i<30;i++)
+    {
+        if(ans==n)
+        {
+            return true;
+        }
+     if(ans<INT_MAX/4)
+      
+        ans=ans*4;
     }
+    return false;}
 };
