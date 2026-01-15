@@ -1,11 +1,19 @@
-#include <cmath>
+#include <climits>
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        if(n <= 0) return false;
+        if(n <= 0) return false; // negative or zero can't be power of 4
 
-        double val = log2(n);         // log base 2
-        return fabs(val - round(val)) < 1e-10  // is integer
-               && ((int)round(val) % 2 == 0); // is even
+        int ans = 1;
+        while(ans <= n){
+            if(ans == n) return true;
+
+            if(ans <= INT_MAX / 4)  // safe multiplication
+                ans *= 4;
+            else
+                break;  // stop to prevent overflow
+        }
+
+        return false;  // never matched
     }
 };
