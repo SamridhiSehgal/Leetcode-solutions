@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0657-robot-return-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Enumeration
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
