@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Enumeration
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
