@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
 |  |
 | ------- |
