@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
