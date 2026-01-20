@@ -18,8 +18,7 @@ public:
     for(int i=id-1;i>=0;i--)
     {
         if(board[i][jd]=='.')
-        {
-            move=move+1;
+        {continue;
         }
         if(board[i][jd]=='B')
         {
