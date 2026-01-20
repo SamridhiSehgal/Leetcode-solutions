@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1598-crawler-log-folder](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 ## Matrix
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 ## Greedy
 |  |
 | ------- |
