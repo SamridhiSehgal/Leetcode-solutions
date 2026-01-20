@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
@@ -117,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
