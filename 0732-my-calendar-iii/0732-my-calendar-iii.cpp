@@ -1,26 +1,22 @@
 class MyCalendarThree {
 public:
-map<int,int>mp;
-    MyCalendarThree() {
-        
-    }
-    
-    int book(int startTime, int endTime) {
-        mp[startTime]++;
-        mp[endTime]--;int count=0;
-        int ongoing=0;
-        for(auto i : mp)
-        {
-            ongoing+=i.second;
-            count=max(count,ongoing);
+    vector<pair<int,int>> timeline;
 
+    int book(int start, int end) {
+
+        timeline.push_back({start, 1});   // meeting starts
+        timeline.push_back({end, -1});    // meeting ends
+
+        sort(timeline.begin(), timeline.end());
+
+        int ongoing = 0;
+        int answer = 0;
+
+        for (auto p : timeline) {
+            ongoing += p.second;
+            answer = max(answer, ongoing);
         }
-        return count;
+
+        return answer;
     }
 };
-
-/**
- * Your MyCalendarThree object will be instantiated and called as such:
- * MyCalendarThree* obj = new MyCalendarThree();
- * int param_1 = obj->book(startTime,endTime);
- */
