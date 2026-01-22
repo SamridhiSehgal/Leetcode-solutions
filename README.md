@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -92,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2405-optimal-partition-of-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Two Pointers
 |  |
