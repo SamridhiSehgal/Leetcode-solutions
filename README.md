@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2405-optimal-partition-of-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Two Pointers
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
