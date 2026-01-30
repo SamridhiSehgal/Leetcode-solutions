@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
