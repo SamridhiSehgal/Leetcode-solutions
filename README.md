@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
