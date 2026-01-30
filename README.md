@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1598-crawler-log-folder](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
