@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
