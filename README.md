@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0274-h-index) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
@@ -221,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0274-h-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
