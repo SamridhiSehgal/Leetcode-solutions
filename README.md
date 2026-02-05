@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
