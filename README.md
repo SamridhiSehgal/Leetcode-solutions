@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1598-crawler-log-folder](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2405-optimal-partition-of-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Two Pointers
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 ## Bucket Sort
 |  |
 | ------- |
