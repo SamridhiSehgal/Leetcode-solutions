@@ -31,7 +31,7 @@ public:
                     while(k<t&&nums[t]==nums[t+1])
                     t--;
                 }
-               else if(sum<target)
+            else    if(sum<target)
                 {
                     k++;
                 }
