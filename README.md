@@ -245,14 +245,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
