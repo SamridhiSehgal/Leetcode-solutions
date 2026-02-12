@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1540-can-convert-string-in-k-moves](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1540-can-convert-string-in-k-moves) |
 | [2405-optimal-partition-of-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [3713-longest-balanced-substring-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2405-optimal-partition-of-string](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [3713-longest-balanced-substring-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Enumeration
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3713-longest-balanced-substring-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
