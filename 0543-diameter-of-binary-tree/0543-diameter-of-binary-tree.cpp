@@ -24,10 +24,7 @@ ans=max(ans,lh+rh);
 return max(lh,rh)+1; 
 }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL)
-        {
-            return 0;
-        }
+      
       height(root);
       return ans;
 
