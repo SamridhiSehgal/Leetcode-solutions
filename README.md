@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0766-toeplitz-matrix](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0875-koko-eating-bananas](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0732-my-calendar-iii) |
+| [0875-koko-eating-bananas](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [3477-fruits-into-baskets-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Design
 |  |
