@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0868-binary-gap](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0868-binary-gap) |
 ## Recursion
 |  |
 | ------- |
