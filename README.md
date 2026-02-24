@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
