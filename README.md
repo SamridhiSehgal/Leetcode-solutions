@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
@@ -295,10 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 ## Bucket Sort
 |  |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -365,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SamridhiSehgal/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
